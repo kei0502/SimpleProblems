@@ -1,5 +1,8 @@
 # SimpleProblems
 代码随手写
+#### 2016.03.04
+leetcode continue
+
 #### 2016.03.03
 明明在开题,实验室却经常有人讨论刷leetcode,好呗我也闲着刷了几道,之前都是java刷的,现在要开始写js啦
 
